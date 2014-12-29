@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -15,3 +16,6 @@
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
+=======
+/Temp
+>>>>>>> c65bb9f8d26c66e4996d639a717f495b09da7633
